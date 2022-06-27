@@ -1,0 +1,19 @@
+/*@keyframes text_reveal{
+    100%{
+        color: white;
+    }
+}
+
+@ketyframes text_reveal_box{
+    100% {
+        width: 100%;
+        left: 0;
+
+    }
+    50% {
+        width: 0%;
+        left: 100%;
+
+    }
+}
+*/
